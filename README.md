@@ -1,45 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project is live on Netlify was [Click here](https://exclusivephonestore.netlify.com/).
 
-## Available Scripts
+## Phone Store
 
-In the project directory, you can run:
+This is small working model of a Online Phone Store. In this model, the main page shows the all the available product for sale, with pictures and selling price.
+You can add the product to shopping cart from there by clicking on the cart-button on the right button or one can get the detailed information about the product by clicking on the product, which leads to the details page.
 
-### `npm start`
+### `Detail`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Jump to the Product Detail page by simply clicking on that.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Two options are available there. 'Add To Cart' and 'Back to Product' page.
 
-### `npm test`
+### `Cart`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Wanna but somethong? Add the product to Cart. You can add multiple items aswel but one item apears only once. If you intrested in more than 1 piece of quantity of any item, simply increase or decrease the quantity on cart page.
+You can Delete the Item from the Cart by clicking on 'Trash' icon and you can clear the whole Cart by clicking on 'CLEAR CART' Button.
 
-### `npm run build`
+### `Payment`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This Project has working model of PayPal payment method which is achieved with 'Sandbox'.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+For more information [Click Here](https://developer.paypal.com/developer/accounts/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `Build With`
 
-### `npm run eject`
+- - React Framework
+- - Bootstrap
+- - Styled Components
+- - React Router
+- - Context API
+- - Sandbox
+- - Netlify
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Deployment
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project is live on Netlify. [Live Version](https://exclusivephonestore.netlify.com/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+For more information about Netlify, goto [Netlify](https://www.netlify.com/).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
