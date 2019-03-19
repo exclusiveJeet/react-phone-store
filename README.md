@@ -1,9 +1,9 @@
-Project is live on Netlify was [Click here](https://exclusivephonestore.netlify.com/).
+Project is live on Netlify [Click here](https://exclusivephonestore.netlify.com/).
 
 ## Phone Store
 
 This is small working model of a Online Phone Store. In this model, the main page shows the all the available product for sale, with pictures and selling price.
-You can add the product to shopping cart from there by clicking on the cart-button on the right button or one can get the detailed information about the product by clicking on the product, which leads to the details page.
+You can add the product to shopping cart by clicking on the cart-button on the right button or you can get the detailed information about the product by clicking on the product.
 
 ### `Detail`
 
@@ -13,8 +13,8 @@ Two options are available there. 'Add To Cart' and 'Back to Product' page.
 
 ### `Cart`
 
-Wanna but somethong? Add the product to Cart. You can add multiple items aswel but one item apears only once. If you intrested in more than 1 piece of quantity of any item, simply increase or decrease the quantity on cart page.
-You can Delete the Item from the Cart by clicking on 'Trash' icon and you can clear the whole Cart by clicking on 'CLEAR CART' Button.
+Wanna buy something? Add the product to Cart. You can add multiple items aswel but one item apears only once. You can increase or decrease the quantity of any item, by simply clicking on (-) or (+) Button.
+You can Delete the Item from the cart by clicking on 'Trash' icon and you can clear the whole cart by clicking on 'CLEAR CART' Button.
 
 ### `Payment`
 
@@ -24,13 +24,13 @@ For more information [Click Here](https://developer.paypal.com/developer/account
 
 ### `Build With`
 
-- - React Framework
-- - Bootstrap
-- - Styled Components
-- - React Router
-- - Context API
-- - Sandbox
-- - Netlify
+- React Framework
+- Bootstrap
+- Styled Components
+- React Router
+- Context API
+- Sandbox
+- Netlify
 
 ## Deployment
 
